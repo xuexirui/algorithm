@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601865085 source:/home/xuexirui/code-space/space-c/algorithm/test/data-structure1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"dijkstra.c"
+
+1601868044 /home/xuexirui/code-space/space-c/algorithm/test/data-structure1/dijkstra.c
+	<stdio.h>
+	<stdlib.h>
+
